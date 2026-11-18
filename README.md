@@ -154,7 +154,7 @@ caller's perceived latency.
 ## Project structure
 
 ```
-src/main/java/com/sahithireddy/paymentledger/
+src/main/java/com/kanika/paymentledger/
   api/            REST controllers, DTOs, global exception handling
   domain/         JPA entities
   repository/     Spring Data repositories (including locking queries)
